@@ -1,0 +1,49 @@
+# 🏥 Emergency Room Visit Report - Power BI Dashboard
+
+This project is a Power BI dashboard that analyzes emergency room (ER) visits. It provides insights into patient demographics, visit reasons, wait times, and outcomes to help hospital administrators improve efficiency and patient care.
+
+---
+
+## 📊 Dashboard Highlights
+
+- **Total ER Visits**: Tracks the total number of visits over time.
+- **Patient Demographics**: Visualizations based on age, gender, and visit frequency.
+- **Visit Reasons**: Most common causes for ER visits.
+- **Average Wait Time**: Time between patient arrival and consultation.
+- **Visit Outcomes**: Admitted, discharged, or referred cases.
+- **Peak Hours**: Time periods with the highest visit volume.
+
+---
+
+## 📁 Files Included
+
+- `EmergencyRoomReport.pbix` – Power BI report file
+- `er_visits_data.csv` – Sample dataset used in the report
+- `README.md` – This documentation
+
+---
+
+## 📌 Project Goals
+
+- Analyze patterns in emergency room visits
+- Identify bottlenecks and peak times
+- Help improve decision-making in healthcare operations
+
+---
+
+## 🛠️ Tools Used
+
+- **Power BI**
+- **Microsoft Excel / CSV Data**
+- **Data Cleaning and Modeling**
+
+---
+
+## 🧠 Insights
+
+- Most visits occur during evening hours.
+- High wait times are associated with weekends.
+- Certain conditions (e.g., chest pain, injury) lead to higher admission rates.
+
+---
+
